@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 1 0 0 0 -1
+Offset = 0 0 0
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.3 0.3 0.3
+seriesuid = 000
+DimSize = 512 512 512
+ElementType = MET_FLOAT
+ElementDataFile = reconhalf.raw
